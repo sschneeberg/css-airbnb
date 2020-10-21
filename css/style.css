@@ -11,6 +11,10 @@ body {
     margin: 5vh;
 }
 
+div.heading p {
+    margin-top: -1em;
+}
+
 .parent {
     display: flex;
     justify-content: space-between;
